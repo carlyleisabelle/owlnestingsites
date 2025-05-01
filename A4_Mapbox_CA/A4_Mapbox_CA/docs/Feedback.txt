@@ -1,0 +1,6 @@
+Mapbox Assignment Feedback: 
+
+The legend icon should match the size of the icon on the actual map. Increasing the size of the icon in the legend will also enhance the visibility of the icon details. This can be achieved by modifying the external style.css file. Define a CSS rule that controls the legend icons and apply a larger width and height to the img element inside the legend. One element worth testing could be .mapboxgl-ctrl-legend:
+
+Pictures not appearing - chat with Jill for reference. 
+
